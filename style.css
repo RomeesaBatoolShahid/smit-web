@@ -175,5 +175,7 @@ input[type="submit"] {
 }
 }
 .img17{
-    margin-top: 30px;
+    margin-top: 100px;
+    position: relative; 
+    left: 500px;
 }
